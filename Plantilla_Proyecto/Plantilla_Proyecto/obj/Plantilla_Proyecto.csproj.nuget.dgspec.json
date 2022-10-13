@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isaac\\OneDrive\\Documentos\\III cuatri 2022\\Programación Avanzada\\Plantilla_Proyecto\\Plantilla_Proyecto\\Plantilla_Proyecto.csproj": {}
+    "C:\\Users\\david\\Source\\Repos\\proyecto_final\\Plantilla_Proyecto\\Plantilla_Proyecto\\Plantilla_Proyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isaac\\OneDrive\\Documentos\\III cuatri 2022\\Programación Avanzada\\Plantilla_Proyecto\\Plantilla_Proyecto\\Plantilla_Proyecto.csproj": {
+    "C:\\Users\\david\\Source\\Repos\\proyecto_final\\Plantilla_Proyecto\\Plantilla_Proyecto\\Plantilla_Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaac\\OneDrive\\Documentos\\III cuatri 2022\\Programación Avanzada\\Plantilla_Proyecto\\Plantilla_Proyecto\\Plantilla_Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Source\\Repos\\proyecto_final\\Plantilla_Proyecto\\Plantilla_Proyecto\\Plantilla_Proyecto.csproj",
         "projectName": "Plantilla_Proyecto",
-        "projectPath": "C:\\Users\\isaac\\OneDrive\\Documentos\\III cuatri 2022\\Programación Avanzada\\Plantilla_Proyecto\\Plantilla_Proyecto\\Plantilla_Proyecto.csproj",
-        "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaac\\OneDrive\\Documentos\\III cuatri 2022\\Programación Avanzada\\Plantilla_Proyecto\\Plantilla_Proyecto\\obj\\",
+        "projectPath": "C:\\Users\\david\\Source\\Repos\\proyecto_final\\Plantilla_Proyecto\\Plantilla_Proyecto\\Plantilla_Proyecto.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david\\Source\\Repos\\proyecto_final\\Plantilla_Proyecto\\Plantilla_Proyecto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
