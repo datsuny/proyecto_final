@@ -24,3 +24,29 @@ C:\Users\isaac\OneDrive\Documentos\III cuatri 2022\Programación Avanzada\Planti
 C:\Users\isaac\OneDrive\Documentos\III cuatri 2022\Programación Avanzada\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.pdb
 C:\Users\isaac\OneDrive\Documentos\III cuatri 2022\Programación Avanzada\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.genruntimeconfig.cache
 C:\Users\isaac\OneDrive\Documentos\III cuatri 2022\Programación Avanzada\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\ref\Plantilla_Proyecto.dll
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\bin\Debug\net6.0\Plantilla_Proyecto.staticwebassets.runtime.json
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\bin\Debug\net6.0\Plantilla_Proyecto.exe
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\bin\Debug\net6.0\Plantilla_Proyecto.deps.json
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\bin\Debug\net6.0\Plantilla_Proyecto.runtimeconfig.json
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\bin\Debug\net6.0\Plantilla_Proyecto.dll
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\bin\Debug\net6.0\Plantilla_Proyecto.pdb
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.csproj.AssemblyReference.cache
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.AssemblyInfoInputs.cache
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.AssemblyInfo.cs
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.RazorAssemblyInfo.cache
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.RazorAssemblyInfo.cs
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\scopedcss\bundle\Plantilla_Proyecto.styles.css
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\scopedcss\projectbundle\Plantilla_Proyecto.bundle.scp.css
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.dll
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\refint\Plantilla_Proyecto.dll
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.pdb
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\Plantilla_Proyecto.genruntimeconfig.cache
+C:\Users\david\Source\Repos\proyecto_final\Plantilla_Proyecto\Plantilla_Proyecto\obj\Debug\net6.0\ref\Plantilla_Proyecto.dll
